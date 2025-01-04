@@ -1,5 +1,7 @@
 ﻿This is a basic implementation of Conway’s Game of Life in C++ using Raylib.
 
+Controls:
+
 R for random initial state
 C for clear grid
 RETURN/ENTER for start simulation
